@@ -39,3 +39,6 @@ C:\Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\MongoDB.Drive
 C:\Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\SharpCompress.dll
 C:\Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\Snappier.dll
 C:\Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\ZstdSharp.dll
+C:\Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\DotNetEnv.dll
+C:\Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\Sprache.dll
+C:\Projects\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net9.0\Play.Catalog.Service.sourcelink.json
